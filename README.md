@@ -42,7 +42,7 @@ Three dashboards were developed for this use case:
 2. Open the provided URL in your web browser to interact with the dashboard.
 
 ## Data Analysis
-The data analysis was conducted using Jupyter Notebook and python files. The notebook used for data analysis is located in the `notebooks` directory. These python files contain the data cleaning, preprocessing, and analysis steps required to prepare the data for the dashboard.
+The data analysis was conducted using Jupyter Notebook and python scripts. The notebook used for data analysis is located in the `notebooks` directory. The python scripts contain the data cleaning, preprocessing, and analysis to plot the dashboards.
 
 
 ## Future Development
