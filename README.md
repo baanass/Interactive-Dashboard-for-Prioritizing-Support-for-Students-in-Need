@@ -1,7 +1,7 @@
 # Educational Support Dashboard
 
 ## Overview
-The Educational Support Dashboard is an interactive tool designed to assist educational counselors in identifying and prioritizing support for students in need. Utilizing school performance data and questionnaire responses, the dashboard highlights students with low math grades but high potential for improvement. The application provides intuitive visualizations and interactive features to enable easy data analysis and informed decision-making.
+The Educational Support Dashboard is an interactive tool designed to assist educational counselors in identifying and prioritizing support for students in need. Utilizing school performance data, the dashboard highlights students with low math grades but high potential for improvement. The application provides intuitive visualizations and interactive features to enable easy data analysis and informed decision-making.
 
 ## Dashboards
 Three dashboards were developed for this use case:
