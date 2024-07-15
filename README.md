@@ -24,7 +24,7 @@ Three dashboards were developed for this use case:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd educational-support-dashboard
+    cd Interactive-Dashboard-for-Prioritizing-Support-for-Students-in-Need
     ```
 3. Install the required dependencies:
     ```bash
@@ -41,22 +41,6 @@ Three dashboards were developed for this use case:
 ## Data Analysis
 The data analysis was conducted using Jupyter Notebooks. The notebooks used for data analysis are located in the `notebooks` directory. These notebooks contain the data cleaning, preprocessing, and analysis steps required to prepare the data for the dashboard.
 
-## Project Structure
-
-educational-support-dashboard/
-│
-├── notebooks/
-│ └── data_analysis.ipynb # Data analysis notebook
-│
-├── src/
-│ └── script/
-│ └── dashboard_final.py # Main dashboard script
-│
-├── data/
-│ └── sample_data.csv # Sample data used for the dashboard
-│
-├── README.md # Project readme
-└── requirements.txt # Python dependencies
 
 ## Future Development
 The project aims to expand with additional dashboards focusing on various aspects of educational data analysis. Each dashboard will be developed and executed independently to provide specific insights and support decision-making processes in different areas.
