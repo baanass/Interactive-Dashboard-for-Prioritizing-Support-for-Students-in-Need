@@ -5,11 +5,14 @@ The Educational Support Dashboard is an interactive tool designed to assist educ
 
 ## Dashboards
 Three dashboards were developed for this use case:
-// à détailler
+- Final Dashboard: dashboard non personnalisable, poids des facteurs déjà prédifinis selon leur correlation avec la note finale en mathématiques
+- Final Dashbord Personnalisable: poids des facteurs personnalisable par l'utilisateur
+- Autre Methode Dashboard: Methode de calcul de l'ImprovementScore differente des autres (à discuter)
+
 
 
 ## Requirements
-- Python 3.x
+- Python 3.9
 - Streamlit
 - Pandas
 - NumPy
@@ -39,7 +42,7 @@ Three dashboards were developed for this use case:
 2. Open the provided URL in your web browser to interact with the dashboard.
 
 ## Data Analysis
-The data analysis was conducted using Jupyter Notebooks. The notebooks used for data analysis are located in the `notebooks` directory. These notebooks contain the data cleaning, preprocessing, and analysis steps required to prepare the data for the dashboard.
+The data analysis was conducted using Jupyter Notebook and python files. The notebook used for data analysis is located in the `notebooks` directory. These python files contain the data cleaning, preprocessing, and analysis steps required to prepare the data for the dashboard.
 
 
 ## Future Development
@@ -54,5 +57,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any questions or further information, please contact:
 - [Anass Baba](https://github.com/yourusername)
-- Email: anassbaba@gmail.com
+- Email: baba.anass@outlook.com
 
