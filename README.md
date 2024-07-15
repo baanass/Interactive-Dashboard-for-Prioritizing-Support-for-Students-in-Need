@@ -22,7 +22,7 @@ Two dashboards were developed for this use case:
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/educational-support-dashboard.git
+    git clone https://github.com/baanass/Interactive-Dashboard-for-Prioritizing-Support-for-Students-in-Need
     ```
 2. Navigate to the project directory:
     ```bash
