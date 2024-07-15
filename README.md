@@ -35,14 +35,10 @@ Two dashboards were developed for this use case:
 
 ## Usage
 1. Execute the dashboard:
-    a. Dashboard:
     ```bash
     streamlit run .\src\script\dashboard_final.py
     ```
-    b. Notebook:
-    ```bash
-    streamlit run .\src\notebook\analyse_des_données.ipynb
-    ```
+    
 2. Open the provided URL in your web browser to interact with the dashboard.
 
 ## Data Analysis
