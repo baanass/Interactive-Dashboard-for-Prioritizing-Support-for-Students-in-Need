@@ -5,8 +5,8 @@ The Educational Support Dashboard is an interactive tool designed to assist educ
 
 ## Dashboards
 Two dashboards were developed for this use case:
-- Final Dashboard: dashboard non personnalisable, poids des facteurs déjà prédifinis selon leur correlation avec la note finale en mathématiques
-- Final Dashbord Personnalisable: poids des facteurs personnalisable par l'utilisateur
+- Final Dashboard: non-customizable dashboard, pre-defined factor weights according to their correlation with the final math score.
+- Final Dashbord Personnalisable: user-customizable factor weights.
 
 
 
@@ -56,6 +56,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any questions or further information, please contact:
-- [Anass Baba](https://github.com/yourusername)
+- [Anass Baba](https://www.linkedin.com/in/baba-anass/)
 - Email: baba.anass@outlook.com
 
